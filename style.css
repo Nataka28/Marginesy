@@ -1,0 +1,47 @@
+body
+{
+    background-color: rgb(241, 172, 172);
+    text-align: center;
+    font-style: oblique;
+}
+table,th,tr,td
+{
+    border: 1px solid black;
+}
+table{
+    border-collapse: collapse;
+    margin: auto;
+    width: 40%;
+}
+.margineswe
+{
+    padding: 10px;
+}
+.marginesze
+{
+    margin: 40px 600px;
+}
+.margines
+{
+    margin: 50px 450px 40px;
+    padding: 70px 60px 40px;
+}
+.marginesy
+{
+    margin: 90px 80px 60px 500px;
+    padding: 90px 90px 40px 70px;
+}
+.marginesyr
+{
+    margin-top: 100px ;
+    margin-left: 700px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+}
+a {
+    text-decoration: none;
+   color: black;
+}
+a:hover {
+    color: white;
+}
